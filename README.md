@@ -20,10 +20,10 @@ I love **learning, building, experimenting, and turning ideas into projects**.
 ## 🛠️ Skills
 
 **Languages:**
-`Python` `C` `C++` `SQL`
+`Python` `C` 
 
 **AI / Data:**
-`Machine Learning` `Deep Learning` `Computer Vision` `NumPy` `Pandas` `Scikit-learn`
+`Machine Learning` `Deep Learning` 
 
 **Quantum:**
 `Qiskit` `Quantum Computing`
@@ -36,18 +36,6 @@ I love **learning, building, experimenting, and turning ideas into projects**.
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                                   | Focus                    |
-| ----------------------------------------- | ------------------------ |
-| 🔥 **Infrared Power Equipment Detection** | YOLO • Computer Vision   |
-| 🌐 **Network Intrusion Detection**        | ML • Feature Selection   |
-| ⚛️ **Quantum Image Processing**           | FRQI • Qiskit            |
-| 🐟 **AI Fish Farm Monitoring**            | Data Analysis • DMD      |
-| ✈️ **Airport Passenger Forecasting**      | ML • Feature Engineering |
-| 🧑‍💻 **Travel Buddy Finder**             | Flask • SQLite • DSA     |
-
----
 
 ## 🎨 Design Journey
 
@@ -63,10 +51,5 @@ Currently exploring **graphic design, typography, color, layouts, branding, and 
 
 ---
 
-## 🤝 Let's Connect
-
-Always open to **learning, collaborating, and building interesting things**.
-
-⭐ *Thanks for visiting my profile!*
 
 ### *Keep learning. Keep creating. Keep building.*
