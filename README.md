@@ -33,13 +33,13 @@ Graphic Design       ████████░░░░░░░░░░  Gro
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,pytorch,sklearn,git,github,vscode,matlab" />
+<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,matlab" />
 
 </p>
 
 ### 🧠 AI & Data
 
-`Python` `Machine Learning` `Deep Learning` `Computer Vision` `Pandas` `NumPy` `Scikit-learn`
+`Python` `Machine Learning` `Deep Learning` 
 
 ### ⚛️ Quantum
 
@@ -51,77 +51,12 @@ Graphic Design       ████████░░░░░░░░░░  Gro
 
 ---
 
-## 🚀 Things I've Built
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Infrared Object Detection
-
-YOLO-based computer vision system for detecting power equipment from infrared images.
-
-**Tech:** `YOLO` `Python` `Computer Vision`
-
-</td>
-
-<td width="50%">
-
-### 🌐 Network Intrusion Detection
-
-ML-based intrusion detection using feature selection and optimization techniques.
 
 **Tech:** `Python` `ML` `Optimization`
 
 </td>
 </tr>
 
-<tr>
-<td>
-
-### ⚛️ Quantum Image Processing
-
-Exploring image representation using **FRQI** and quantum computing concepts.
-
-**Tech:** `Qiskit` `Python` `FRQI`
-
-</td>
-
-<td>
-
-### 🐟 AI Fish Farm Monitoring
-
-Data-driven monitoring of fish-farm water quality using intelligent analysis techniques.
-
-**Tech:** `Python` `DMD` `Data Analysis`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ✈️ Airport Passenger Forecasting
-
-Machine-learning models for passenger forecasting with feature engineering and time-based features.
-
-**Tech:** `Python` `ML` `XGBoost`
-
-</td>
-
-<td>
-
-### 🧑‍💻 Travel Buddy Finder
-
-A web application combining Flask, SQLite and data structures for finding travel connections.
-
-**Tech:** `Flask` `SQLite` `DSA`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🎨 Beyond Code
 
@@ -155,54 +90,6 @@ I'm currently learning **Graphic Design** and exploring how technology and creat
 
 ---
 
-## 🌱 Currently Exploring
-
-```text
-Artificial Intelligence
-        +
-Data Science
-        +
-Quantum Technologies
-        +
-Creative Design
-        ↓
-   Building Things
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more real-world AI projects
-* ⚛️ Go deeper into Quantum Computing
-* 🎨 Improve my Graphic Design skills
-* 🧠 Strengthen DSA & programming fundamentals
-* 📚 Start contributing to open source
-* 🔬 Explore research-oriented projects
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
 
 ### 💡 *Learn. Build. Create. Repeat.*
 
