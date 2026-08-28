@@ -24,12 +24,4 @@ Graphic Design       ████████░░░░░░░░░░  Gro
 
 
 
-
----
-
-
-### 💡 *Learn. Build. Create. Repeat.*
-
-⭐ **If you find something interesting here, consider giving it a star!**
-
 </p>
