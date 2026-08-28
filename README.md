@@ -22,51 +22,8 @@ Quantum Computing    ███████████░░░░░░░  Exp
 Graphic Design       ████████░░░░░░░░░░  Growing
 ```
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,matlab" />
-
-</p>
-
-### 🧠 AI & Data
-
-`Python` `Machine Learning` `Deep Learning` 
-
-### ⚛️ Quantum
-
-`Qiskit` `Quantum Computing` `Quantum Algorithms`
-
-### 🎨 Creative
-
-`Canva` `Graphic Design` `Typography` `Color Theory` `Branding` `Visual Design`
-
----
 
 
-**Tech:** `Python` `ML` `Optimization`
-
-</td>
-</tr>
-
-
-## 🎨 Beyond Code
-
-I'm currently learning **Graphic Design** and exploring how technology and creativity can work together.
-
-🎨 Visual Design
-✍️ Typography
-🌈 Color & Composition
-📱 Social Media Design
-🏷️ Branding
-🖥️ UI/UX
-
-> **Code solves problems. Design makes the solution memorable.**
-
----
 
 ---
 
