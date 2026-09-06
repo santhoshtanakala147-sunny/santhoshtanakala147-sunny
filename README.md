@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/santhosh.svg" width="850" alt="Santhosh">
+  <img src="./santhosh.svg" width="850" alt="Santhosh">
 </p>
 
 <p align="center">
