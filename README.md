@@ -1,7 +1,5 @@
-<!-- ✨ ANIMATED NAME HEADER -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=1&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&height=80&lines=✦+Santhosh+✦" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&height=80&lines=Santhosh" />
 </p>
 
 <p align="center">
