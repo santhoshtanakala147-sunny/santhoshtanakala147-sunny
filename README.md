@@ -1,15 +1,8 @@
 # 👋 Hey, I'm Santhosh!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Quantum+Technology+Explorer;Graphic+Design+Learner;Building+%7C+Learning+%7C+Creating" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Quantum+Technology+Explorer;Graphic+Design+Learner" alt="Typing">
 </p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
-  </a>
-</p>
-
 
 ---
 
