@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Santhosh!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Quantum+Technology+Explorer;Graphic+Design+Learner" alt="Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+%F0%9F%A4%96;Quantum+Technology+Explorer+%E2%9A%9B%EF%B8%8F;Graphic+Design+Learner+%F0%9F%8E%A8;Building+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing Animation">
 </p>
 
 ---
