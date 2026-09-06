@@ -1,9 +1,11 @@
 # 👋 Hey, I'm Santhosh!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+%F0%9F%A4%96;Quantum+Technology+Explorer+%E2%9A%9B%EF%B8%8F;Graphic+Design+Learner+%F0%9F%8E%A8;Building+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing Animation">
-</p>
-
+<h2 align="center">
+  <span style="color:#F59E0B;">AI</span> &
+  <span style="color:#F59E0B;">Data Science</span>
+  <br>
+  <sub>Quantum Technologies · Creative Design · Continuous Learning</sub>
+</h2>
 ---
 
 ## 🧑‍💻 About Me
