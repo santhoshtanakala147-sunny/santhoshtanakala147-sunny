@@ -1,17 +1,6 @@
 <p align="center">
-  <img src="./santhosh.svg" width="850" alt="Santhosh">
-</p>
-
-<p align="center">
-  <b>AI & Data Science</b>
-  &nbsp; ✦ &nbsp;
-  <b>Quantum Technologies</b>
-  &nbsp; ✦ &nbsp;
-  <b>Graphic Design</b>
-</p>
-
-<p align="center">
-  <i>Learning • Building • Creating</i>
+  <img src="![Uploading first.png…]()
+">
 </p>
 ## 🧑‍💻 About Me
 
