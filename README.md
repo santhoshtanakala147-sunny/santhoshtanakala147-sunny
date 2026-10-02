@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="![Uploading first.png…]()
-">
+  <img src="first.png">
 </p>
 ## 🧑‍💻 About Me
 
